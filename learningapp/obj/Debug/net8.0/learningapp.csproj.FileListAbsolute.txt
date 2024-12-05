@@ -220,3 +220,4 @@ C:\Users\Michael\AZ-204\application_ch63_DotNet8\application\learningapp\obj\Deb
 C:\Users\Michael\AZ-204\application_ch63_DotNet8\application\learningapp\obj\Debug\net8.0\learningapp.pdb
 C:\Users\Michael\AZ-204\application_ch63_DotNet8\application\learningapp\obj\Debug\net8.0\learningapp.genruntimeconfig.cache
 C:\Users\Michael\AZ-204\application_ch63_DotNet8\application\learningapp\obj\Debug\net8.0\ref\learningapp.dll
+C:\Users\Michael\AZ-204\application_ch63_DotNet8\application\learningapp\obj\Debug\net8.0\learningapp.sourcelink.json
